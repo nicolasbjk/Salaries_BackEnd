@@ -1,6 +1,6 @@
 # MasGlobalTest
 
-Get the FrontEnd repository for this project --> [FE] https://github.com/nicolasbjk/salaries-front-end
+Get the FrontEnd repository for this project --> [FE](https://github.com/nicolasbjk/salaries-front-end)
 
 # Framework
 
